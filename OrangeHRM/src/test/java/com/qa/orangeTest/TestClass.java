@@ -34,22 +34,9 @@ public class TestClass extends BaseClass{
 	
 		
 		
-	/*
-		ObjLog.ClickSubmit();
-		Thread.sleep(5000);
-		ObjScreen= new Screenshot();
-		Screenshot.screenshot(driver);
-		
-		RandomNumGenerator.randomNum();
-		
-		ObjDashboard= new Dashboard(driver);
-		String Text=ObjDashboard.GetText();
-		boolean isPresent=ObjDashboard.IsTextPresent();
-		Thread.sleep(3000);
-		Assert.assertEquals(Text, "Dashboard");
-		Assert.assertTrue(isPresent);	
-		
-		*/
+System.out.println("sample code");
+System.out.println("sample code 2");
+
 	}
 
 }
